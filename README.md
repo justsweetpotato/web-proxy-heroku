@@ -4,7 +4,7 @@
 <br>
 <hr>
 <br>
-Please don't use this code anymore, you can use [jsproxy](https://github.com/EtherDream/jsproxy/tree/master/cf-worker) , Deployed at CLOUDFLARE WORKERS, easy and free.
+Please don't use this code anymore, you can use <a href="https://github.com/EtherDream/jsproxy/tree/master/cf-worker">jsproxy</a>, Deployed at CLOUDFLARE WORKERS, easy and free.
 <br>
 能通过此代理网站在墙内访问任何网站, 此网站做一个转发的作用. 使用 heroku 的应用托管服务, 完全免费.<br>
 点击使用: https://bot-go-3.herokuapp.com/
