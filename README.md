@@ -2,11 +2,10 @@
 推荐使用一个部署更简单，启动更快速的 Web 代理 <a href="https://github.com/EtherDream/jsproxy/tree/master/cf-worker">jsproxy</a>, 使用 Cloudflare Workers 免费部署。<br>
 点击使用：https://proxy1.littlepotato.cf/ <br>
 <br>
+Please don't use this code anymore, you can use <a href="https://github.com/EtherDream/jsproxy/tree/master/cf-worker">jsproxy</a>, Deployed at CLOUDFLARE WORKERS, easy and free.<br>
+Demo: https://proxy1.littlepotato.cf/
+<br>
 <hr>
-<br>
-Please don't use this code anymore, you can use <a href="https://github.com/EtherDream/jsproxy/tree/master/cf-worker">jsproxy</a>, Deployed at CLOUDFLARE WORKERS, easy and free.
-<br>
-<br>
 能通过此代理网站在墙内访问任何网站, 此网站做一个转发的作用. 使用 heroku 的应用托管服务, 完全免费.<br>
 点击使用: https://bot-go-3.herokuapp.com/
 
